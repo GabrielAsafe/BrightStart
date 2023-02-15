@@ -17,3 +17,4 @@ jobs:
         context: .
         push: true
         tags: docker push gasafemartins/brightstart-martins_gabriel:${{ github.run_number }}
+        
